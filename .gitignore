@@ -1,0 +1,20 @@
+
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Generated data and reports
+data/processed/
+inspection_log.txt
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
