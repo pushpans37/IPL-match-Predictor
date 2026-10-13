@@ -12,6 +12,7 @@ __pycache__/
 
 # Generated data and reports
 data/processed/
+data/raw
 inspection_log.txt
 
 # Editor and OS files
