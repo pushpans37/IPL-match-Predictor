@@ -19,3 +19,5 @@ inspection_log.txt
 .vscode/
 .DS_Store
 Thumbs.db
+
+models/
