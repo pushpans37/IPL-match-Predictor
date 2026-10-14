@@ -6,3 +6,4 @@ scikit-learn
 streamlit
 jupyter
 joblib
+plotly
